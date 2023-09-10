@@ -1,0 +1,22 @@
+{
+  "backgroundImageUrls": [
+    "https://fastly.picsum.photos/id/806/536/354.jpg?hmac=cuS-BpiPqGiZFIRLcL_mn2r40jiBkagQRjOmo485OyM"
+  ],
+  "articles": [
+    {
+      "title": {
+        "title": "My first article"
+      },
+      "contentList": [
+        {
+          "type": "HEADER",
+          "header": "First Section"
+        },
+        {
+          "type": "PARAGRAPH",
+          "paragraph": "My first paragraph."
+        }
+      ]
+    }
+  ]
+}
