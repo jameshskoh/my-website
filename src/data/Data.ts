@@ -1,6 +1,6 @@
-import { Article } from "./Article.ts";
+import { ArticleContent } from "../components/Article/Article.tsx";
 
 export type Data = {
   backgroundImageUrls: string[];
-  articles: Article[];
+  articles: ArticleContent[];
 };

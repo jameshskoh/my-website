@@ -4,9 +4,8 @@
   ],
   "articles": [
     {
-      "title": {
-        "title": "My first article"
-      },
+      "title": "My first article",
+      "url": "/first-article",
       "contentList": [
         {
           "type": "HEADER",
